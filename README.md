@@ -22,6 +22,7 @@ Hi, I'm Emem Paul Essien — a passionate and detail-oriented **Data Analyst** w
 🔧 **Core Tools & Skills**:  
 `Excel` | `SQL` | `Python` | `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `IBM Cognos` | `Jupyter Notebook` | `Data Cleaning` | `Data Visualization`
 
+Here's a link to my credentials on [Credly](https://www.credly.com/users/emem-essien.c858913b)
 📈 I'm constantly exploring new datasets and challenges, and I enjoy using GitHub to document my learning journey, showcase my projects, and collaborate with others in the data community.
 
 ---
